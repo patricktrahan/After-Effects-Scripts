@@ -1,1 +1,1 @@
-My personal scripts for After Effects
+My scripts for After Effects
