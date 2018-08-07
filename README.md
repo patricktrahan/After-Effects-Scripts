@@ -1,2 +1,1 @@
-"# After-Effects_Scripts" 
-"# After-Effects-Scripts" 
+My personal scripts for After Effects
